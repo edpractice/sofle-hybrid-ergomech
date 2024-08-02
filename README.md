@@ -2,7 +2,7 @@
 This guide is for flashing the Ergomech Sofle Hybrid Keyboard. The Sofle Hybrid is 6×4+5 keys column-staggered split keyboard, using low profile Kailh Choc switches.
 Ergomech has modified the original Sofle Hybrid to include a 5 way switch on the right side keyboard instead of a rotary encoder.
 
-# ErgoMech Sofle Hybrid Wireless
+# ErgoMech Sofle Hybrid Wireless my Edition
 The Ergomech Sofle Hybrid Wireless uses a Nice!Nano microcontroller and runs the ZMK firmware. This guide will show you how to flash the ZMK firmware to the Nice!Nano microcontroller.
 
 ## Default keymap
